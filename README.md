@@ -77,8 +77,8 @@ cpp
 Copy code
 http://127.0.0.1:5000
 
-📸 Screenshots
-
+### 📸 Screenshots
+![Home page](Screenshots/index.png)
 
 📌 Future Enhancements
  Add database (e.g., SQLite or MongoDB)
@@ -94,7 +94,6 @@ http://127.0.0.1:5000
 🤝 Contributing
 Feel free to fork this project, suggest features, or submit pull requests to improve it.
 
-📜 License
 ## 📜 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.txt) file for details.
