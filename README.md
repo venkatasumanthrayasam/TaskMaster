@@ -76,6 +76,7 @@ Now open your browser and go to:
 cpp
 Copy code
 http://127.0.0.1:5000
+
 📸 Screenshots
 
 
@@ -96,7 +97,7 @@ Feel free to fork this project, suggest features, or submit pull requests to imp
 📜 License
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.txt) file for details.
 
 
 🙌 Acknowledgements
