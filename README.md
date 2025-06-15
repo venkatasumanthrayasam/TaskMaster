@@ -14,19 +14,21 @@ TaskMaster is a simple yet powerful To-Do List web application built with **Flas
 - 🎨 Responsive and professional UI
 - 🔄 Integrated frontend and backend using Flask routes
 - ⚡ Lightweight and fast
+- 🗄️ Integrated SQLite (for persistent task storage)
+
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Frontend**:
-  - HTML5
-  - CSS3 (Professional styling)
-  - JavaScript (DOM manipulation and interactivity)
+- **Frontend**
+  - HTML5, CSS3, JavaScript
 
-- **Backend**:
+- **Backend**
   - Python 3.x
   - Flask micro-framework
+  - SQLite (Lightweight embedded DB)
+
 
 ---
 
@@ -57,16 +59,16 @@ TaskMaster/
 Make sure Python is installed on your system, then:
 
  ```bash
- Copy code
  pip install flask
  ```
- Make sure Python is installed on your system, then:
 
- ```bash
- pip install flask
+### 3. Initialize the Database (if not already created)
+
+```bash
+python db_setup.py   # or whatever file you use to initialize the DB
 ```
 
-### 3. Run the Application
+### 4. Run the Application
 bash
 ```
 python app.py
