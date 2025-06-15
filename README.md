@@ -94,7 +94,10 @@ http://127.0.0.1:5000
 Feel free to fork this project, suggest features, or submit pull requests to improve it.
 
 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+## 📜 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 
 🙌 Acknowledgements
 Flask Documentation : https://flask.palletsprojects.com/
